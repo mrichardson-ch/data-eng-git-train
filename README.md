@@ -12,24 +12,21 @@ All files within this project are experimental and have no real meaning.
 
 Attempt to clone the repository.
 
-### Folder structure
-
-Have a go at creating your own individual folder.
-
 ### Branch Naming Convention
 
 Create your own branch. Branches can be named however you decide.
 
-### Pull Requests
+### Folder structure
 
-Create a pull request. Have a go at labelling your pull requests.
+Have a go at creating your own individual folder. Within this folder add your own shopping list
 
 ### Tags
 
 Create an annotated tag and a simple tag.
 
-## Repo Structure and Ways of Working
+### Pull Requests
 
-### Merging
+Please work within your initialed folder. We will look at Pull requests as a team.
 
-Please work within your initialed folder. We will look at merging as a team.
+
+
